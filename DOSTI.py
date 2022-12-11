@@ -423,7 +423,7 @@ class Main:
 		
 		
 		print("")
-		print("\033[1;37m [1] 𝗙𝗶𝗿𝘀𝘁 join my group  ")
+		print("\033[1;37m [1] 𝗙𝗶𝗿𝘀𝘁 join my CHANNEL  ")
 		print("\033[1;37m [2] 𝗘𝘅𝗶𝘁")
 		print("")
 		Baloch = input("\n\033[1;37m  Choose : \033[1;32m")
